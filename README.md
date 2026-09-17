@@ -15,10 +15,17 @@
 ```bash
 mihir@dev ~ $ cat profile.txt
 
-  EDUCATION    B.Tech CSE (AI & ML), MIT World Peace University  ·  final year
-  FOCUS        Retrieval pipelines · agent evaluation · embedded sensor rigs
-  BUILDING     RAG over statutory law, LLM eval harnesses, ToF scanning hardware
-  INTERESTS    Systems that can prove they work, not just demo well
+  EDUCATION    B.Tech ECE (Electrical), AI & ML specialisation
+               MIT World Peace University, Pune  ·  CGPA 8.62  ·  final year
+
+  NOW          Founding Engineer  @ ForeSites      (construction-tech)
+               ML Intern          @ BeyondBot      (audit automation)
+               President          @ CoDeC          (competitive programming club)
+
+  DOING        RAG pipelines · LLM agent evaluation · NL-to-SQL
+               embedded sensor instrumentation
+
+  BELIEVE      a system that can't be measured can't be trusted
 
 mihir@dev ~ $ _
 ```
@@ -31,15 +38,19 @@ mihir@dev ~ $ _
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,js,cpp" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,java,js,matlab" />
 
-**Backend, Data & AI**
+**AI, Data & Backend**
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,sqlite,supabase,sklearn" />
+<img src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn,fastapi,nodejs,express" />
 
-**Frontend, Cloud & Hardware**
+**Databases & Cloud**
 
-<img src="https://skillicons.dev/icons?i=react,aws,arduino,git" />
+<img src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,mongodb,neo4j,aws,gcp,azure" />
+
+**Frontend, Hardware & Tooling**
+
+<img src="https://skillicons.dev/icons?i=react,vercel,arduino,linux,bash,git" />
 
 </div>
 
@@ -61,12 +72,12 @@ Uniform chunking destroys legal text, so a router splits the corpus four ways �
 </td>
 <td width="50%" valign="top">
 
-#### [🧪 Luna Reasoning Eval](https://github.com/lawn-mimower/luna-reasoning-eval)
+#### [🧪 Reasoning-Effort Eval](https://github.com/lawn-mimower/luna-reasoning-eval)
 `Python` `OpenAI` `BFCL`
 
-How much reasoning does a task actually need? **11 suites, 4 effort modes, ~9,000 API calls**, a cost ledger on every one.
+How much reasoning does a task actually need? **11 suites, 4 effort levels, ~9,000 API calls**, a cost ledger on every one.
 
-For most tasks, maximum effort bought nothing measurable. Ships with an adversarial audit of its own conclusions.
+Reasoning transformed chained computation — multi-hop handover **15% → 79%** — but left retrieval flat and made tool calling *worse* (**81.7%** at `none` vs **81.2%** at `high`, for **34% more cost**). Effort is now set by task shape, not globally.
 
 </td>
 </tr>
@@ -76,9 +87,9 @@ For most tasks, maximum effort bought nothing measurable. Ships with an adversar
 #### [🏗️ ForeSites](https://github.com/lawn-mimower/foresites)
 `Node` `React` `Python` `AWS Lambda`
 
-Construction snag tracking over **WhatsApp** — site staff report defects with a photo or voice note.
+Snag management for construction sites, **in a live client pilot**. Multilingual, multimodal intake — English, Hindi and Marathi, as text, voice or image — over WhatsApp.
 
-Lands in Postgres, gets assigned, tracked to a signed-off resolution. Four subsystems, including a Lambda agent turning plain English into SQL and a chart.
+A vectorless RAG skill queries PostgreSQL directly with no embedding store, alongside a streaming NL-to-SQL agent over a 9-table schema. Both serverless.
 
 </td>
 <td width="50%" valign="top">
@@ -106,15 +117,26 @@ The correction comes from the sensor's own behaviour, not a datasheet constant.
 <td width="50%" valign="top">
 
 #### 🌾 AgroSense
-`Research`
+`ESP32` `Embedded C` `Modbus` `Firebase`
 
-Modality substitution in low-cost precision agriculture — review paper on replacing expensive sensing with cheaper proxies.
+UAV RGB imagery → orthomosaics via a photogrammetry pipeline, with ExG/VARI vegetation indices and K-Means zoning.
 
-<sub>*Paper, not a repo.*</sub>
+An ESP32 ground module in embedded C drives a Modbus soil sensor and GPS waypoint guidance, running on-device ML for NPK estimation. Co-authored a review paper on low-cost precision-agriculture adoption.
+
+<sub>*Not yet a public repo.*</sub>
 
 </td>
 </tr>
 </table>
+
+---
+
+### 🏛️ Beyond the code
+
+**President — [CoDeC](https://github.com/lawn-mimower), MIT-WPU Competitive Programming Club**
+Ran **Trifecta Challenge 2026**, a 3-day symposium with **350+ participants across 87 teams** from MIT-WPU and external colleges, leading a core team of 15–20 across track design, judging and day-of operations. Secured partnerships with **GeeksforGeeks, HackerRank and AlgoZenith** through direct outreach. Run recurring DSA workshops.
+
+**Certifications** — Microsoft Azure Fundamentals (AZ-900) · AWS Academy Cloud Foundations · AWS Academy Cloud Security Foundations
 
 ---
 
