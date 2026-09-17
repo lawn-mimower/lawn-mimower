@@ -72,16 +72,11 @@ and AlgoZenith.
 
 ## Tools
 
-**Languages** <img height="32" src="https://skillicons.dev/icons?i=python,cpp,c,java,mysql,js" />
-
-**AI/ML** <img height="32" src="https://skillicons.dev/icons?i=pytorch,tensorflow,opencv,sklearn" /> &nbsp;![RAG](https://img.shields.io/badge/RAG-1f2937?style=flat-square)&nbsp;![NL-to-SQL](https://img.shields.io/badge/NL--to--SQL-1f2937?style=flat-square)
-
-**Backend** <img height="32" src="https://skillicons.dev/icons?i=fastapi,nodejs,express" /> &nbsp;![REST](https://img.shields.io/badge/REST-1f2937?style=flat-square)&nbsp;![SSE](https://img.shields.io/badge/SSE-1f2937?style=flat-square)
-
-**Data** <img height="32" src="https://skillicons.dev/icons?i=postgres,supabase,sqlite,mongodb,neo4j" /> &nbsp;![Pinecone](https://img.shields.io/badge/Pinecone-000000?style=flat-square)
-
-**Cloud** <img height="32" src="https://skillicons.dev/icons?i=aws,gcp,azure,vercel" /> &nbsp;![S3](https://img.shields.io/badge/S3-569A31?style=flat-square&logo=amazons3&logoColor=white)&nbsp;![Render](https://img.shields.io/badge/Render-46E3B7?style=flat-square&logo=render&logoColor=white)
-
-**Hardware** <img height="32" src="https://skillicons.dev/icons?i=arduino" /> &nbsp;![ESP32](https://img.shields.io/badge/ESP32%2FESP8266-E7352C?style=flat-square&logo=espressif&logoColor=white)&nbsp;![Modbus](https://img.shields.io/badge/Modbus-1f2937?style=flat-square)
+**Languages** `Python` `C++` `C` `Java` `SQL` `JavaScript`
+**AI/ML** `PyTorch` `TensorFlow` `OpenCV` `scikit-learn` `RAG` `NL-to-SQL`
+**Backend** `FastAPI` `Node.js` `Express` `REST` `SSE`
+**Data** `PostgreSQL` `Supabase` `SQLite` `MongoDB` `Neo4j` `Pinecone`
+**Cloud** `AWS Lambda` `S3` `GCP` `Azure` `Vercel` `Render`
+**Hardware** `ESP32/ESP8266` `Arduino` `Modbus`
 
 <sub>Certified: Azure Fundamentals (AZ-900) · AWS Academy Cloud Foundations · AWS Academy Cloud Security Foundations</sub>
