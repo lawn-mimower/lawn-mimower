@@ -31,15 +31,15 @@ mihir@dev ~ $ _
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,cpp,js,ts,c,matlab" />
+<img src="https://skillicons.dev/icons?i=python,js,cpp" />
 
 **Backend, Data & AI**
 
 <img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,postgres,sqlite,supabase,sklearn" />
 
-**Frontend, Cloud & Tooling**
+**Frontend, Cloud & Hardware**
 
-<img src="https://skillicons.dev/icons?i=react,astro,aws,docker,git,arduino,linux" />
+<img src="https://skillicons.dev/icons?i=react,aws,arduino,git" />
 
 </div>
 
